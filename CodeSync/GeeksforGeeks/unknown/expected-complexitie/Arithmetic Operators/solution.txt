@@ -7,7 +7,7 @@
  * Topics: Expected Complexities Topic Tags, Expected Complexities, Topic Tags, CPP, Java
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-07-20T17:06:56.320Z
+ * Synced: 2026-07-20T17:07:44.815Z
  */
 
 x = int(input())
