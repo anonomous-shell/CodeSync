@@ -1,0 +1,23 @@
+/*
+ * Platform: GeeksforGeeks
+ * Problem: Arithmetic Operators
+ * URL: https://www.geeksforgeeks.org/problems/arithmetic-operators-1605594922/1
+ * Language: import java.util.Scanner; class GFG { public static void main(String[] args) { Scanner sc = new Scanner(System.in); int x = sc.nextInt(); int y = sc.nextInt(); // code here int p = x+y ; int q = x-y ; int r = x*y ; int s = x/y ; int t = x%y ; // The below code prints the output System.out.println(p + " " + q + " " + r + " " + s + " " + t); } }
+ * Difficulty: Unknown
+ * Topics: Expected Complexities Topic Tags, Expected Complexities, Topic Tags, CPP, Java
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-07-20T17:01:02.644Z
+ */
+
+x = int(input())
+y = int(input())
+
+# code here
+p=x+y
+q=x-y
+r=x*y
+s=x//y
+t=x%y
+# The below code prints the output
+print(p, q, r, s, t)
