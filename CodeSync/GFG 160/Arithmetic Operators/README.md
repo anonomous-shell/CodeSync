@@ -7,7 +7,7 @@
 - Runtime: N/A
 - Memory: N/A
 - Problem URL: https://www.geeksforgeeks.org/problems/arithmetic-operators-1605594922/1
-- Synced: 2026-07-20T17:06:56.320Z
+- Synced: 2026-07-20T17:07:44.815Z
 
 ## Problem Description
 
