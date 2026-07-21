@@ -7,14 +7,14 @@
  * Topics: Summer SkillUp Explore, Summer SkillUp, Explore
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-07-21T08:10:12.106Z
+ * Synced: 2026-07-21T08:10:59.295Z
  */
 
 using namespace std;
 ​
 int main()
 {
-i
+​
     int N = 5;
 ​
     // Outer loop runs N times, once for each row
