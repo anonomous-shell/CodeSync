@@ -7,7 +7,7 @@
 - Runtime: N/A
 - Memory: N/A
 - Problem URL: https://www.geeksforgeeks.org/dsa/program-to-print-right-half-pyramid-pattern-star-pattern/
-- Synced: 2026-07-21T12:24:41.185Z
+- Synced: 2026-07-21T12:25:42.179Z
 
 ## Problem Description
 
