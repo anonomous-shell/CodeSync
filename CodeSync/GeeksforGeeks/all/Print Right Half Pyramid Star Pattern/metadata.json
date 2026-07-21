@@ -1,5 +1,5 @@
 {
-  "submissionTimestamp": "2026-07-21T08:10:12.106Z",
+  "submissionTimestamp": "2026-07-21T08:10:59.295Z",
   "runtime": "N/A",
   "memoryUsage": "N/A",
   "difficulty": "Unknown",
@@ -12,5 +12,5 @@
   "language": "using namespace std; int main() { int N = 5; // Outer loop runs N times, once for each row for (int i = 1; i <= N; i++) { // Inner loop prints 'i' stars for (int j = 1; j <= i; j++) { cout << \"*\"; } cout << \"\\n\"; } return 0; }",
   "problemTitle": "Print Right Half Pyramid Star Pattern",
   "problemUrl": "https://www.geeksforgeeks.org/dsa/program-to-print-right-half-pyramid-pattern-star-pattern/",
-  "submissionId": "5hk1sc"
+  "submissionId": "lbmoku"
 }
