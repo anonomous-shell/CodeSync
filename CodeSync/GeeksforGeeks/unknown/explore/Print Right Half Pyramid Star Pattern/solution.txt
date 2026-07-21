@@ -7,25 +7,25 @@
  * Topics: Summer SkillUp Explore, Summer SkillUp, Explore
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-07-21T08:09:26.261Z
+ * Synced: 2026-07-21T08:10:12.106Z
  */
 
 using namespace std;
-
+​
 int main()
 {
-
+i
     int N = 5;
-
+​
     // Outer loop runs N times, once for each row
     for (int i = 1; i <= N; i++) {
         // Inner loop prints 'i' stars
         for (int j = 1; j <= i; j++) {
             cout << "*";
         }
-
+​
         cout << "\n";
     }
-
+​
     return 0;
 }
