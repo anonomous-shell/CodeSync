@@ -7,7 +7,7 @@
 - Runtime: N/A
 - Memory: N/A
 - Problem URL: https://www.geeksforgeeks.org/sql/sql-create-table/
-- Synced: 2026-08-16T18:51:19.163Z
+- Synced: 2026-08-16T18:52:18.168Z
 
 ## Problem Description
 
